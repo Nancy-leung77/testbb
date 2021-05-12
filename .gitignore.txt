@@ -3,8 +3,6 @@ app/storage
 keys
 node_modules
 .env
-.env.*.php
-.env.php
 
 public/temp_wp
 public/wp
